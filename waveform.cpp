@@ -1,3 +1,11 @@
+/*
+ * Special thanks to YouTube channel Philip Bohun
+ * and their SFML tutorial playlist:
+ * https://www.youtube.com/playlist?list=PLSiFUSQSRYAM36UYQLEFGOAVf95rkQJXQ
+ * This little project is based off some of the sample code,
+ * and I modified it extensively from there.
+ */
+
 #include <math.h>
 #include <vector>
 #include "waveform.h"
